@@ -26,9 +26,17 @@ HealthLink is a comprehensive web application designed to streamline online phar
 <img width="1310" height="587" alt="Screenshot 2025-08-30 000006" src="https://github.com/user-attachments/assets/63cece41-453b-47a3-a2a3-ec9d0e4b5fb9" />
 
 <img width="1348" height="560" alt="Screenshot 2025-08-30 000049" src="https://github.com/user-attachments/assets/15d50a06-3299-4da0-972b-7eaccc8dd21e" />
+<img width="1342" height="628" alt="Screenshot 2025-08-31 213639" src="https://github.com/user-attachments/assets/86e9c00c-d63b-4068-8248-e759116b983a" />
+
+<img width="1306" height="505" alt="Screenshot 2025-08-31 213710" src="https://github.com/user-attachments/assets/abbc6d2c-80a6-4ba1-8864-4dcbfe81f660" />
+
+<img width="1354" height="610" alt="Screenshot 2025-08-31 213726" src="https://github.com/user-attachments/assets/9be67209-f022-46b2-8fd6-afe1434747d2" /> 
+
+
 
 
 🚀 Key Features
+
 Integrated Full-Stack Solution: A robust, single-page application built with React.js and Tailwind CSS on the frontend, a Node.js/Express.js backend, and secure user authentication handled by Firebase.
 
 AI-Powered Medical Assistance: Features a cutting-edge chatbot powered by OpenAI GPT and MongoDB Vector Search for Retrieval-Augmented Generation (RAG), providing accurate and context-aware medical Q&A.
