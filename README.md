@@ -7,6 +7,27 @@ HealthLink: A Full-Stack Healthcare Platform
 
 HealthLink is a comprehensive web application designed to streamline online pharmacy services and doctor appointment bookings. This platform leverages a modern full-stack architecture and integrates advanced AI to improve healthcare accessibility and management for patients.
 
+
+<h1 demo video and screen shots>
+<img width="1338" height="605" alt="Screenshot 2025-08-29 233622" src="https://github.com/user-attachments/assets/4a72bc8f-4e70-4eb1-93fc-65680b870cf4" />
+
+<img width="1328" height="599" alt="Screenshot 2025-08-29 235421" src="https://github.com/user-attachments/assets/6842837f-c415-43ea-8eb3-e0cbe7fe98d5" />
+
+<img width="1348" height="594" alt="Screenshot 2025-08-29 235502" src="https://github.com/user-attachments/assets/f0a3559d-260a-4db6-846c-297bc04b6865" />
+
+
+<img width="1306" height="566" alt="Screenshot 2025-08-29 235530" src="https://github.com/user-attachments/assets/1b96c271-dcc6-4a4f-baeb-7eeb446cf340" />
+
+<img width="1328" height="585" alt="Screenshot 2025-08-29 235604" src="https://github.com/user-attachments/assets/892f5826-7e66-4bfd-8b7a-95f3a7607268" />
+
+<img width="1324" height="602" alt="Screenshot 2025-08-29 235731" src="https://github.com/user-attachments/assets/a75f6e4d-5cc6-4182-ab41-d3b398c1e25d" />
+<img width="1324" height="607" alt="Screenshot 2025-08-29 235833" src="https://github.com/user-attachments/assets/46fbfbc4-abbc-4099-abc0-795f8b1d6fcc" />
+<img width="1245" height="605" alt="Screenshot 2025-08-29 235939" src="https://github.com/user-attachments/assets/4722ab8b-7229-4cb9-bad2-ffc3f53c62cd" />
+<img width="1310" height="587" alt="Screenshot 2025-08-30 000006" src="https://github.com/user-attachments/assets/63cece41-453b-47a3-a2a3-ec9d0e4b5fb9" />
+
+<img width="1348" height="560" alt="Screenshot 2025-08-30 000049" src="https://github.com/user-attachments/assets/15d50a06-3299-4da0-972b-7eaccc8dd21e" />
+
+
 🚀 Key Features
 Integrated Full-Stack Solution: A robust, single-page application built with React.js and Tailwind CSS on the frontend, a Node.js/Express.js backend, and secure user authentication handled by Firebase.
 
